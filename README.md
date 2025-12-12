@@ -28,7 +28,7 @@ The dataset comprises a collection of paintings by notable artists across differ
 
 - On the test and validation sets: normalization and resize
 
-# Dependencies
+# Libraries
 
 ```text
 torch, torchvision, streamlit, pillow, tqdm, scikit-learn, pandas, numpy, matplotlib 
